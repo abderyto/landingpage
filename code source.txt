@@ -12,7 +12,7 @@
 
   gtag('config', 'UA-242052241-1');
 </script>
-<title>OLrocket</title>
+<title>LUXPER</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="description" content="Easily search and download millions of original / modded / premium APK apps and games for free. Speed, safety and friendliness are what we want to bring to our users. Besides, you can discover guides for iOS, Windows , Android and much more useful information every day." />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
